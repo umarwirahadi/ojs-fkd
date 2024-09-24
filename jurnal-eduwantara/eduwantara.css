@@ -1,0 +1,7 @@
+.pkp_site_name .is_img img {
+    display: block;
+    max-height: none;
+    width: auto;
+    height: auto;
+    margin-bottom: 0px !important;
+}
