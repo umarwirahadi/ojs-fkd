@@ -180,7 +180,7 @@ h6 {
 --------------------------------------------------------------*/
 
 .header {
-    --background-color: rgba(6, 84, 228, 0.699);
+    --background-color: rgba(27, 2, 247, 0.541);
     --default-color: #f0ba0a;
     --heading-color: #5eb0f3;
     color: var(--default-color);
